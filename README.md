@@ -1,6 +1,6 @@
-<a href="https://github.com/angellee177"><img alt="Profile" src="https://angellee177.github.io/badges/angellee177.svg"/></a> 
-<a href="https://medium.com/@angelriapurnamasari17"><img alt="Medium" src="https://angellee177.github.io/badges/Story-Medium.svg"/></a>
-<a href="https://github.com/sponsors/angellee177"><img alt="Sponsors" src="https://angellee177.github.io/badges/badge_sponsors.svg"/></a>
+<a href="https://github.com/angellee177"><img alt="Profile" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<a href="https://medium.com/@angelriapurnamasari17"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://github.com/sponsors/angellee177"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>
 ### Hi there 👋
 
 <!--
