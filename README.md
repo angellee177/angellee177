@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angellee177&langs_count=10&layout=compact)](https://github.com/angellee177/angellee177)
 <br />
  
-<!-- ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=red&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=red&color=2bbc8a)
 <br/><br />
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=orange&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=ec2&logoColor=orang&color=2bbc8a)
@@ -44,5 +44,5 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Framework-vue-informational?style=flat&logo=vue&logoColor=green&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-rails-informational?style=flat&logo=rails&logoColor=red&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-spring-informational?style=flat&logo=spring&logoColor=green&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-SMART_400-informational?style=flat&logo=iBMi&logoColor=green&color=2bbc8a) -->
+![](https://img.shields.io/badge/Framework-SMART_400-informational?style=flat&logo=iBMi&logoColor=green&color=2bbc8a)
 
