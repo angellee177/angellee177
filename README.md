@@ -1,6 +1,10 @@
+[![@angellee177's Holopin board](https://holopin.io/api/user/board?user=angellee177)](https://holopin.io/@angellee177)
+
+
 <a href="https://github.com/angellee177"><img alt="Profile" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
 <a href="https://medium.com/@angelriapurnamasari17"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://github.com/sponsors/angellee177"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>
+
 ### Hi there 👋
 
 <!--
@@ -11,7 +15,8 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on helping hospitality professionals with the freedom to earn more income on their terms, find permanent work.
 - 🌱 I’m currently learning kotlin using ktor for backend side.
 - 📫 How to reach me: angelriapurnamasari17@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her![image](https://user-images.githubusercontent.com/40418196/193415229-ec548aa7-f5fe-4063-8c66-3f67ee3cff6f.png)
+
 - ⚡ Fun fact: speak **5 languages**
 
 <h3 align="left">Connect with me:</h3>
