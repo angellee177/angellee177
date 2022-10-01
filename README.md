@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on helping hospitality professionals with the freedom to earn more income on their terms, find permanent work.
 - 🌱 I’m currently learning kotlin using ktor for backend side.
 - 📫 How to reach me: angelriapurnamasari17@gmail.com
-- 😄 Pronouns: She/Her![image](https://user-images.githubusercontent.com/40418196/193415229-ec548aa7-f5fe-4063-8c66-3f67ee3cff6f.png)
+- 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: speak **5 languages**
 
