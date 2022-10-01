@@ -30,3 +30,5 @@ Here are some ideas to get you started: -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angellee177&langs_count=10&layout=compact)](https://github.com/angellee177/angellee177)
 <br />
+
+![](https://komarev.com/ghpvc/?username=angellee177&style=for-the-badge)
