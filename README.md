@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/angellee177"><img alt="Profile" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
-<a href="https://medium.com/@angelriapurnamasari17"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://medium.com/@angellee177"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://github.com/sponsors/angellee177"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>
 <a href="https://komarev.com/ghpvc/?username=angellee177&style=for-the-badge"><img alt="view_count" src="https://komarev.com/ghpvc/?username=angellee177&style=for-the-badge"/></a>
 
