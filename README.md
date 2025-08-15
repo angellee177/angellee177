@@ -1,14 +1,19 @@
 [![@angellee177's Holopin board](https://holopin.io/api/user/board?user=angellee177)](https://holopin.io/@angellee177)
 
 
-<h1 align="center">Hi 👋, I'm Angel</h1>
-<p align="center">I'm a passionate and results-driven Backend Engineer from Indonesia, with a strong background in developing scalable and efficient software solutions. My expertise lies in creating robust backend systems, optimizing performance, and building features that solve real-world problems.</p>
+<h1 align="center" style="color:#cf8f69">Hi 👋, I'm Angel</h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend Engineer;5 years%20of%20coding%20experience;Passionate%20and%20Result%20Driven&font=Fira%20Code&center=true&width=440&height=45&color=cf8f69&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angellee177&label=Profile%20views&color=0e75b6&style=flat" alt="angellee177" /> </p>
 
-- 📫 How to reach me **angelriapurnamasari17@gmail.com**
+<h3  style="color:#cf8f69">📫 How to reach me</h3>
+<p><a href="mailto:angelriapurnamasari17@gmail.com">angelriapurnamasari17@gmail.com</a></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:#cf8f69">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/angellee-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angellee-dev" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/@angelleedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@angelleedev" height="30" width="40" /></a>
@@ -24,9 +29,9 @@
 <p align=center>
   <div align=center>
     <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=angellee177&theme=monokai-metallian&hide_border=true" alt="angellee177" /></a>
-    <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angellee177&show_icons=true&locale=en&layout=compact&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="angellee177" /></a>
-    <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=angellee177&layout=compact&theme=calm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="angellee177" /></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angellee177&show_icons=true&locale=en&layout=compact&bg_color=1F222E&title_color=cf8f69&icon_color=F8D866" alt="angellee177" /></a>
+    <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=angellee177&layout=compact&theme=calm&hide_border=true&bg_color=1F222E&title_color=cf8f69&icon_color=F8D866&hide=Jupyter%20Notebook" alt="angellee177" /></a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awahids&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angellee177&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
