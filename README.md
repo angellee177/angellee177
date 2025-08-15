@@ -2,11 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com/?lines=Backend Engineer;5 years%20of%20coding%20experience;Passionate%20and%20Result%20Driven&font=Fira%20Code&center=true&width=440&height=45&color=cf8f69&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angellee177&label=Profile%20views&color=0e75b6&style=flat" alt="angellee177" /> </p>
 
