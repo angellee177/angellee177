@@ -1,19 +1,19 @@
 [![@angellee177's Holopin board](https://holopin.io/api/user/board?user=angellee177)](https://holopin.io/@angellee177)
 
 
-<h1 align="center" style="color:#cf8f69">Hi 👋, I'm Angel</h1>
+<h1 align="center">Hi 👋, I'm Angel</h1>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend Engineer;5 years%20of%20coding%20experience;Passionate%20and%20Result%20Driven&font=Fira%20Code&center=true&width=440&height=45&color=cf8f69&vCenter=true&pause=1000&size=22" /></a>
+   <img src="https://readme-typing-svg.demolab.com/?lines=Backend Engineer;5 years%20of%20coding%20experience;Passionate%20and%20Result%20Driven&font=Fira%20Code&center=true&width=440&height=45&color=cf8f69&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angellee177&label=Profile%20views&color=0e75b6&style=flat" alt="angellee177" /> </p>
 
-<h3  style="color:#cf8f69">📫 How to reach me</h3>
+<h3>📫 How to reach me</h3>
 <p><a href="mailto:angelriapurnamasari17@gmail.com">angelriapurnamasari17@gmail.com</a></p>
 
-<h3 align="left" style="color:#cf8f69">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/angellee-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angellee-dev" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/@angelleedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@angelleedev" height="30" width="40" /></a>
