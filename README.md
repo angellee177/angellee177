@@ -16,7 +16,7 @@
     <a href="https://www.youtube.com/c/@angelleedev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@angelleedev" height="30" width="40" />
     </a>
-  <a href="https://angellee177.hashnode.dev/what-is-api-exactly-things-i-wish-i-had-known-earlier" target="blank">
+  <a href="https://angellee177.hashnode.dev/" target="blank">
     <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@angellee177" height="30" width="40" />
   </a>
 </p>
