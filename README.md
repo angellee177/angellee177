@@ -6,14 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angellee177&label=Profile%20views&color=0e75b6&style=flat" alt="angellee177" /> </p>
 
 <h3>📫 How to reach me</h3>
-<p><a href="mailto:angelriapurnamasari17@gmail.com">angelriapurnamasari17@gmail.com</a></p>
+<p><a href="mailto:leexiao62@gmail.com">leexiao62@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/angellee-dev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angellee-dev" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/c/@angelleedev" target="blank">
+    <a href="https://www.youtube.com/@angelleedev" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@angelleedev" height="30" width="40" />
     </a>
   <a href="https://angellee177.hashnode.dev/" target="blank">
