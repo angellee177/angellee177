@@ -29,11 +29,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
-    <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=angellee177&theme=monokai-metallian&hide_border=true" alt="angellee177" /></a>
-    <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angellee177&show_icons=true&locale=en&layout=compact&bg_color=1F222E&title_color=cf8f69&icon_color=F8D866" alt="angellee177" /></a>
-    <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=angellee177&layout=compact&theme=calm&hide_border=true&bg_color=1F222E&title_color=cf8f69&icon_color=F8D866&hide=Jupyter%20Notebook" alt="angellee177" /></a>
-  </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=angellee177&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
